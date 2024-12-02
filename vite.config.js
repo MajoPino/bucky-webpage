@@ -4,3 +4,4 @@ export default {
         outDir: 'dist', // Carpeta de salida para el build
     },
 };
+//Este es un comentario
